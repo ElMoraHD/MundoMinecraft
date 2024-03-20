@@ -1,0 +1,46 @@
+{
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2024-03-20 20:26:03 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-03-20 20:23:59 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-03-20 20:24:50 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2024-03-20 20:26:03 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:birch_forest": "2024-03-20 20:24:00 -0300",
+      "minecraft:forest": "2024-03-20 20:24:38 -0300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2024-03-20 20:24:05 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2024-03-20 20:26:03 -0300"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
