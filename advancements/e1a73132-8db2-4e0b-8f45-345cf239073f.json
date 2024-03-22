@@ -396,6 +396,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-03-20 21:35:50 -0300",
+<<<<<<< HEAD
       "cooked_mutton": "2024-03-21 22:10:59 -0300",
       "baked_potato": "2024-03-21 22:43:35 -0300",
       "apple": "2024-03-20 21:40:18 -0300",
@@ -403,6 +404,12 @@
       "mutton": "2024-03-20 21:21:04 -0300",
       "beetroot": "2024-03-20 22:17:23 -0300",
       "carrot": "2024-03-21 22:33:12 -0300"
+=======
+      "cooked_beef": "2024-03-21 21:20:38 -0300",
+      "apple": "2024-03-20 21:40:18 -0300",
+      "mutton": "2024-03-20 21:21:04 -0300",
+      "beetroot": "2024-03-20 22:17:23 -0300"
+>>>>>>> ef04ab6ea3631edebcc28200098c88a9e28dca38
     },
     "done": false
   },
@@ -844,6 +851,7 @@
     },
     "done": true
   },
+<<<<<<< HEAD
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2024-03-21 22:33:58 -0300"
@@ -880,5 +888,7 @@
     },
     "done": true
   },
+=======
+>>>>>>> ef04ab6ea3631edebcc28200098c88a9e28dca38
   "DataVersion": 3465
 }
