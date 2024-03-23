@@ -1621,51 +1621,27 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/warped_nightstand": {
+  "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
-      "has_warped_nightstand": "2024-03-22 23:09:32 -0300"
+      "has_gunpowder": "2024-03-22 22:02:34 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-03-22 22:02:34 -0300"
+    },
+    "done": true
+  },
+  "evilcraft:root": {
+    "criteria": {
+      "criteria_0": "2024-03-22 22:03:32 -0300"
     },
     "done": true
   },
   "handcrafted:recipes/misc/oak_nightstand": {
     "criteria": {
       "has_oak_nightstand": "2024-03-22 22:51:44 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/crimson_button": {
-    "criteria": {
-      "has_planks": "2024-03-22 22:53:47 -0300"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/wood_cup": {
-    "criteria": {
-      "has_wood_cup": "2024-03-22 22:52:04 -0300"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/crimson_side_table": {
-    "criteria": {
-      "has_crimson_side_table": "2024-03-22 22:53:47 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/crimson_slab": {
-    "criteria": {
-      "has_planks": "2024-03-22 22:53:47 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/crimson_stairs": {
-    "criteria": {
-      "has_planks": "2024-03-22 22:53:47 -0300"
-    },
-    "done": true
-  },
-  "minecraft:story/iron_tools": {
-    "criteria": {
-      "iron_pickaxe": "2024-03-22 23:08:53 -0300"
     },
     "done": true
   },
@@ -1681,87 +1657,15 @@
     },
     "done": true
   },
-  "evilcraft:root": {
-    "criteria": {
-      "criteria_0": "2024-03-22 22:03:32 -0300"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/warped_bench": {
-    "criteria": {
-      "has_warped_bench": "2024-03-22 23:09:32 -0300"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/warped_fancy_bed": {
-    "criteria": {
-      "has_warped_fancy_bed": "2024-03-22 23:09:32 -0300"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/oak_fancy_bed": {
     "criteria": {
       "has_oak_fancy_bed": "2024-03-22 22:51:44 -0300"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/hammer": {
-    "criteria": {
-      "has_hammer": "2024-03-22 23:08:27 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/coal": {
-    "criteria": {
-      "has_coal_block": "2024-03-22 23:21:56 -0300"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/crimson_shelf": {
-    "criteria": {
-      "has_crimson_shelf": "2024-03-22 22:53:47 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/composter": {
-    "criteria": {
-      "has_wood_slab": "2024-03-22 22:52:04 -0300"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/crimson_couch": {
-    "criteria": {
-      "has_crimson_couch": "2024-03-22 22:53:47 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/crimson_pressure_plate": {
-    "criteria": {
-      "has_planks": "2024-03-22 22:53:47 -0300"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/oak_table": {
     "criteria": {
       "has_oak_table": "2024-03-22 22:51:44 -0300"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/crimson_pillar_trim": {
-    "criteria": {
-      "has_crimson_pillar_trim": "2024-03-22 22:53:47 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/warped_fence_gate": {
-    "criteria": {
-      "has_planks": "2024-03-22 23:09:32 -0300"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/crimson_table": {
-    "criteria": {
-      "has_crimson_table": "2024-03-22 22:53:47 -0300"
     },
     "done": true
   },
@@ -1783,9 +1687,177 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/warped_side_table": {
+  "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
-      "has_warped_side_table": "2024-03-22 23:09:32 -0300"
+      "has_planks": "2024-03-22 22:51:44 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_drawer": {
+    "criteria": {
+      "has_oak_drawer": "2024-03-22 22:51:44 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_couch": {
+    "criteria": {
+      "has_oak_couch": "2024-03-22 22:51:44 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2024-03-22 22:51:44 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_shelf": {
+    "criteria": {
+      "has_oak_shelf": "2024-03-22 22:51:44 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_pillar_trim": {
+    "criteria": {
+      "has_oak_pillar_trim": "2024-03-22 22:51:44 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_chair": {
+    "criteria": {
+      "has_oak_chair": "2024-03-22 22:51:44 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2024-03-22 22:51:44 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_dining_bench": {
+    "criteria": {
+      "has_oak_dining_bench": "2024-03-22 22:51:44 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-03-22 22:51:44 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_desk": {
+    "criteria": {
+      "has_oak_desk": "2024-03-22 22:51:44 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-03-22 22:51:44 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2024-03-22 22:51:44 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_cupboard": {
+    "criteria": {
+      "has_oak_cupboard": "2024-03-22 22:51:44 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_side_table": {
+    "criteria": {
+      "has_oak_side_table": "2024-03-22 22:51:44 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_counter": {
+    "criteria": {
+      "has_oak_counter": "2024-03-22 22:51:44 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_cup": {
+    "criteria": {
+      "has_wood_cup": "2024-03-22 22:52:04 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-03-22 22:52:04 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_bowl": {
+    "criteria": {
+      "has_wood_bowl": "2024-03-22 22:52:04 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_plate": {
+    "criteria": {
+      "has_wood_plate": "2024-03-22 22:52:04 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2024-03-22 22:53:47 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_side_table": {
+    "criteria": {
+      "has_crimson_side_table": "2024-03-22 22:53:47 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2024-03-22 22:53:47 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2024-03-22 22:53:47 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_shelf": {
+    "criteria": {
+      "has_crimson_shelf": "2024-03-22 22:53:47 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_couch": {
+    "criteria": {
+      "has_crimson_couch": "2024-03-22 22:53:47 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-03-22 22:53:47 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_pillar_trim": {
+    "criteria": {
+      "has_crimson_pillar_trim": "2024-03-22 22:53:47 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_table": {
+    "criteria": {
+      "has_crimson_table": "2024-03-22 22:53:47 -0300"
     },
     "done": true
   },
@@ -1795,21 +1867,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/oak_fence": {
-    "criteria": {
-      "has_planks": "2024-03-22 22:51:44 -0300"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/crimson_desk": {
     "criteria": {
       "has_crimson_desk": "2024-03-22 22:53:47 -0300"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/oak_drawer": {
-    "criteria": {
-      "has_oak_drawer": "2024-03-22 22:51:44 -0300"
     },
     "done": true
   },
@@ -1822,6 +1882,132 @@
   "minecraft:recipes/redstone/crimson_trapdoor": {
     "criteria": {
       "has_planks": "2024-03-22 22:53:47 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_chair": {
+    "criteria": {
+      "has_crimson_chair": "2024-03-22 22:53:47 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_corner_trim": {
+    "criteria": {
+      "has_crimson_corner_trim": "2024-03-22 22:53:47 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_cupboard": {
+    "criteria": {
+      "has_crimson_cupboard": "2024-03-22 22:53:47 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_fancy_bed": {
+    "criteria": {
+      "has_crimson_fancy_bed": "2024-03-22 22:53:47 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_counter": {
+    "criteria": {
+      "has_crimson_counter": "2024-03-22 22:53:47 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_drawer": {
+    "criteria": {
+      "has_crimson_drawer": "2024-03-22 22:53:47 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2024-03-22 22:53:47 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_bench": {
+    "criteria": {
+      "has_crimson_bench": "2024-03-22 22:53:47 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-03-22 22:53:47 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_nightstand": {
+    "criteria": {
+      "has_crimson_nightstand": "2024-03-22 22:53:47 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_dining_bench": {
+    "criteria": {
+      "has_crimson_dining_bench": "2024-03-22 22:53:47 -0300"
+    },
+    "done": true
+  },
+  "evilcraft:fart": {
+    "criteria": {
+      "criteria_0": "2024-03-22 22:55:29 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/hammer": {
+    "criteria": {
+      "has_hammer": "2024-03-22 23:08:27 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/bench": {
+    "criteria": {
+      "has_bench": "2024-03-22 23:08:27 -0300"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/metal": {
+    "criteria": {
+      "has_wood": "2024-03-22 23:08:27 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-03-22 23:08:53 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_nightstand": {
+    "criteria": {
+      "has_warped_nightstand": "2024-03-22 23:09:32 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_bench": {
+    "criteria": {
+      "has_warped_bench": "2024-03-22 23:09:32 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_fancy_bed": {
+    "criteria": {
+      "has_warped_fancy_bed": "2024-03-22 23:09:32 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-03-22 23:09:32 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_side_table": {
+    "criteria": {
+      "has_warped_side_table": "2024-03-22 23:09:32 -0300"
     },
     "done": true
   },
@@ -1855,51 +2041,9 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/oak_couch": {
-    "criteria": {
-      "has_oak_couch": "2024-03-22 22:51:44 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_button": {
-    "criteria": {
-      "has_planks": "2024-03-22 22:51:44 -0300"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/oak_shelf": {
-    "criteria": {
-      "has_oak_shelf": "2024-03-22 22:51:44 -0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/warped_door": {
     "criteria": {
       "has_planks": "2024-03-22 23:09:32 -0300"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/oak_pillar_trim": {
-    "criteria": {
-      "has_oak_pillar_trim": "2024-03-22 22:51:44 -0300"
-    },
-    "done": true
-  },
-  "evilcraft:fart": {
-    "criteria": {
-      "criteria_0": "2024-03-22 22:55:29 -0300"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/oak_chair": {
-    "criteria": {
-      "has_oak_chair": "2024-03-22 22:51:44 -0300"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/crimson_chair": {
-    "criteria": {
-      "has_crimson_chair": "2024-03-22 22:53:47 -0300"
     },
     "done": true
   },
@@ -1909,27 +2053,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oak_slab": {
-    "criteria": {
-      "has_planks": "2024-03-22 22:51:44 -0300"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/warped_dining_bench": {
     "criteria": {
       "has_warped_dining_bench": "2024-03-22 23:09:32 -0300"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/crimson_corner_trim": {
-    "criteria": {
-      "has_crimson_corner_trim": "2024-03-22 22:53:47 -0300"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/crimson_cupboard": {
-    "criteria": {
-      "has_crimson_cupboard": "2024-03-22 22:53:47 -0300"
     },
     "done": true
   },
@@ -1945,24 +2071,6 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/oak_dining_bench": {
-    "criteria": {
-      "has_oak_dining_bench": "2024-03-22 22:51:44 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_fence_gate": {
-    "criteria": {
-      "has_planks": "2024-03-22 22:51:44 -0300"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/oak_desk": {
-    "criteria": {
-      "has_oak_desk": "2024-03-22 22:51:44 -0300"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/warped_corner_trim": {
     "criteria": {
       "has_warped_corner_trim": "2024-03-22 23:09:32 -0300"
@@ -1975,69 +2083,9 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/bench": {
-    "criteria": {
-      "has_bench": "2024-03-22 23:08:27 -0300"
-    },
-    "done": true
-  },
-  "mcwdoors:recipes/metal": {
-    "criteria": {
-      "has_wood": "2024-03-22 23:08:27 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_pressure_plate": {
-    "criteria": {
-      "has_planks": "2024-03-22 22:51:44 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_door": {
-    "criteria": {
-      "has_planks": "2024-03-22 22:51:44 -0300"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/crimson_fancy_bed": {
-    "criteria": {
-      "has_crimson_fancy_bed": "2024-03-22 22:53:47 -0300"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/crimson_counter": {
-    "criteria": {
-      "has_crimson_counter": "2024-03-22 22:53:47 -0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/warped_slab": {
     "criteria": {
       "has_planks": "2024-03-22 23:09:32 -0300"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/crimson_drawer": {
-    "criteria": {
-      "has_crimson_drawer": "2024-03-22 22:53:47 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/crimson_fence": {
-    "criteria": {
-      "has_planks": "2024-03-22 22:53:47 -0300"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/crimson_bench": {
-    "criteria": {
-      "has_crimson_bench": "2024-03-22 22:53:47 -0300"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/oak_cupboard": {
-    "criteria": {
-      "has_oak_cupboard": "2024-03-22 22:51:44 -0300"
     },
     "done": true
   },
@@ -2047,45 +2095,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/crimson_fence_gate": {
-    "criteria": {
-      "has_planks": "2024-03-22 22:53:47 -0300"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/warped_couch": {
     "criteria": {
       "has_warped_couch": "2024-03-22 23:09:32 -0300"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/oak_side_table": {
-    "criteria": {
-      "has_oak_side_table": "2024-03-22 22:51:44 -0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/warped_fence": {
     "criteria": {
       "has_planks": "2024-03-22 23:09:32 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/firework_rocket_simple": {
-    "criteria": {
-      "has_gunpowder": "2024-03-22 22:02:34 -0300"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/wood_bowl": {
-    "criteria": {
-      "has_wood_bowl": "2024-03-22 22:52:04 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/tnt": {
-    "criteria": {
-      "has_gunpowder": "2024-03-22 22:02:34 -0300"
     },
     "done": true
   },
@@ -2101,33 +2119,75 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/crimson_nightstand": {
-    "criteria": {
-      "has_crimson_nightstand": "2024-03-22 22:53:47 -0300"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/wood_plate": {
-    "criteria": {
-      "has_wood_plate": "2024-03-22 22:52:04 -0300"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/warped_counter": {
     "criteria": {
       "has_warped_counter": "2024-03-22 23:09:32 -0300"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/crimson_dining_bench": {
+  "minecraft:recipes/misc/coal": {
     "criteria": {
-      "has_crimson_dining_bench": "2024-03-22 22:53:47 -0300"
+      "has_coal_block": "2024-03-22 23:21:56 -0300"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/oak_counter": {
+  "minecraft:recipes/food/cake": {
     "criteria": {
-      "has_oak_counter": "2024-03-22 22:51:44 -0300"
+      "has_egg": "2024-03-23 00:26:09 -0300"
+    },
+    "done": true
+  },
+  "mutantmonsters:root": {
+    "criteria": {
+      "killed_by_something": "2024-03-23 00:25:43 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2024-03-23 00:25:45 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2024-03-23 00:16:11 -0300"
+    },
+    "done": true
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2024-03-23 00:27:18 -0300"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-03-23 00:25:43 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2024-03-23 00:16:11 -0300"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2024-03-23 00:25:43 -0300"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2024-03-23 00:16:11 -0300"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2024-03-23 00:25:43 -0300"
     },
     "done": true
   },

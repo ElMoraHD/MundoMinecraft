@@ -37,6 +37,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:birch_forest": "2024-03-23 00:16:47 -0300",
       "minecraft:windswept_hills": "2024-03-22 17:49:44 -0300",
       "minecraft:beach": "2024-03-22 19:05:17 -0300",
       "minecraft:river": "2024-03-22 18:07:39 -0300",
@@ -1362,8 +1363,12 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-03-23 00:39:36 -0300",
+      "minecraft:vindicator": "2024-03-23 00:39:30 -0300",
       "minecraft:spider": "2024-03-22 18:21:18 -0300",
       "minecraft:creeper": "2024-03-22 18:18:43 -0300",
+      "minecraft:evoker": "2024-03-23 00:40:22 -0300",
+      "minecraft:vex": "2024-03-23 00:43:24 -0300",
       "minecraft:zombie": "2024-03-22 18:33:43 -0300",
       "minecraft:drowned": "2024-03-22 19:05:26 -0300"
     },
@@ -2527,12 +2532,6 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/warped_nightstand": {
-    "criteria": {
-      "has_warped_nightstand": "2024-03-22 22:39:30 -0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/crimson_button": {
     "criteria": {
       "has_planks": "2024-03-22 22:35:12 -0300"
@@ -2554,18 +2553,6 @@
   "minecraft:recipes/building_blocks/crimson_stairs": {
     "criteria": {
       "has_planks": "2024-03-22 22:35:12 -0300"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/warped_bench": {
-    "criteria": {
-      "has_warped_bench": "2024-03-22 22:39:30 -0300"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/warped_fancy_bed": {
-    "criteria": {
-      "has_warped_fancy_bed": "2024-03-22 22:39:30 -0300"
     },
     "done": true
   },
@@ -2593,21 +2580,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/warped_fence_gate": {
-    "criteria": {
-      "has_planks": "2024-03-22 22:39:30 -0300"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/crimson_table": {
     "criteria": {
       "has_crimson_table": "2024-03-22 22:35:12 -0300"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/warped_side_table": {
-    "criteria": {
-      "has_warped_side_table": "2024-03-22 22:39:30 -0300"
     },
     "done": true
   },
@@ -2632,6 +2607,102 @@
   "minecraft:recipes/redstone/crimson_trapdoor": {
     "criteria": {
       "has_planks": "2024-03-22 22:35:12 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_chair": {
+    "criteria": {
+      "has_crimson_chair": "2024-03-22 22:35:12 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_corner_trim": {
+    "criteria": {
+      "has_crimson_corner_trim": "2024-03-22 22:35:12 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_cupboard": {
+    "criteria": {
+      "has_crimson_cupboard": "2024-03-22 22:35:12 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_fancy_bed": {
+    "criteria": {
+      "has_crimson_fancy_bed": "2024-03-22 22:35:12 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_counter": {
+    "criteria": {
+      "has_crimson_counter": "2024-03-22 22:35:12 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_drawer": {
+    "criteria": {
+      "has_crimson_drawer": "2024-03-22 22:35:12 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2024-03-22 22:35:12 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_bench": {
+    "criteria": {
+      "has_crimson_bench": "2024-03-22 22:35:12 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-03-22 22:35:12 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_nightstand": {
+    "criteria": {
+      "has_crimson_nightstand": "2024-03-22 22:35:12 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_dining_bench": {
+    "criteria": {
+      "has_crimson_dining_bench": "2024-03-22 22:35:12 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_nightstand": {
+    "criteria": {
+      "has_warped_nightstand": "2024-03-22 22:39:30 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_bench": {
+    "criteria": {
+      "has_warped_bench": "2024-03-22 22:39:30 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_fancy_bed": {
+    "criteria": {
+      "has_warped_fancy_bed": "2024-03-22 22:39:30 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-03-22 22:39:30 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_side_table": {
+    "criteria": {
+      "has_warped_side_table": "2024-03-22 22:39:30 -0300"
     },
     "done": true
   },
@@ -2671,12 +2742,6 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/crimson_chair": {
-    "criteria": {
-      "has_crimson_chair": "2024-03-22 22:35:12 -0300"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/warped_shelf": {
     "criteria": {
       "has_warped_shelf": "2024-03-22 22:39:30 -0300"
@@ -2686,18 +2751,6 @@
   "handcrafted:recipes/misc/warped_dining_bench": {
     "criteria": {
       "has_warped_dining_bench": "2024-03-22 22:39:30 -0300"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/crimson_corner_trim": {
-    "criteria": {
-      "has_crimson_corner_trim": "2024-03-22 22:35:12 -0300"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/crimson_cupboard": {
-    "criteria": {
-      "has_crimson_cupboard": "2024-03-22 22:35:12 -0300"
     },
     "done": true
   },
@@ -2725,51 +2778,15 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/crimson_fancy_bed": {
-    "criteria": {
-      "has_crimson_fancy_bed": "2024-03-22 22:35:12 -0300"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/crimson_counter": {
-    "criteria": {
-      "has_crimson_counter": "2024-03-22 22:35:12 -0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/warped_slab": {
     "criteria": {
       "has_planks": "2024-03-22 22:39:30 -0300"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/crimson_drawer": {
-    "criteria": {
-      "has_crimson_drawer": "2024-03-22 22:35:12 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/crimson_fence": {
-    "criteria": {
-      "has_planks": "2024-03-22 22:35:12 -0300"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/crimson_bench": {
-    "criteria": {
-      "has_crimson_bench": "2024-03-22 22:35:12 -0300"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/warped_drawer": {
     "criteria": {
       "has_warped_drawer": "2024-03-22 22:39:30 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/crimson_fence_gate": {
-    "criteria": {
-      "has_planks": "2024-03-22 22:35:12 -0300"
     },
     "done": true
   },
@@ -2797,21 +2814,219 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/crimson_nightstand": {
-    "criteria": {
-      "has_crimson_nightstand": "2024-03-22 22:35:12 -0300"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/warped_counter": {
     "criteria": {
       "has_warped_counter": "2024-03-22 22:39:30 -0300"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/crimson_dining_bench": {
+  "handcrafted:recipes/misc/spruce_counter": {
     "criteria": {
-      "has_crimson_dining_bench": "2024-03-22 22:35:12 -0300"
+      "has_spruce_counter": "2024-03-23 00:20:02 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-03-23 00:39:08 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2024-03-23 00:20:02 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_table": {
+    "criteria": {
+      "has_spruce_table": "2024-03-23 00:20:02 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-03-23 00:49:39 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_shelf": {
+    "criteria": {
+      "has_spruce_shelf": "2024-03-23 00:20:02 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2024-03-23 00:14:20 -0300"
+    },
+    "done": true
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2024-03-23 00:40:19 -0300"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2024-03-23 00:40:22 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_couch": {
+    "criteria": {
+      "has_spruce_couch": "2024-03-23 00:20:02 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_dining_bench": {
+    "criteria": {
+      "has_spruce_dining_bench": "2024-03-23 00:20:02 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2024-03-23 00:20:02 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2024-03-23 00:20:02 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2024-03-23 00:49:39 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2024-03-23 00:20:02 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2024-03-23 00:14:20 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_nightstand": {
+    "criteria": {
+      "has_spruce_nightstand": "2024-03-23 00:20:02 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_bench": {
+    "criteria": {
+      "has_spruce_bench": "2024-03-23 00:20:02 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-03-23 00:20:02 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_pillar_trim": {
+    "criteria": {
+      "has_spruce_pillar_trim": "2024-03-23 00:20:02 -0300"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2024-03-23 00:39:30 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2024-03-23 00:14:20 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_drawer": {
+    "criteria": {
+      "has_spruce_drawer": "2024-03-23 00:20:02 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-03-23 00:20:02 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2024-03-23 00:20:02 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-03-23 00:20:02 -0300"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2024-03-23 00:14:20 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_fancy_bed": {
+    "criteria": {
+      "has_spruce_fancy_bed": "2024-03-23 00:20:02 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_chair": {
+    "criteria": {
+      "has_spruce_chair": "2024-03-23 00:20:02 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_cupboard": {
+    "criteria": {
+      "has_spruce_cupboard": "2024-03-23 00:20:02 -0300"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2024-03-23 00:16:44 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2024-03-23 00:20:02 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_corner_trim": {
+    "criteria": {
+      "has_spruce_corner_trim": "2024-03-23 00:20:02 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_desk": {
+    "criteria": {
+      "has_spruce_desk": "2024-03-23 00:20:02 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_side_table": {
+    "criteria": {
+      "has_spruce_side_table": "2024-03-23 00:20:02 -0300"
     },
     "done": true
   },
