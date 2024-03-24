@@ -426,6 +426,7 @@
       "minecraft:magma_cube": "2024-03-21 23:08:03 -0300",
       "minecraft:spider": "2024-03-21 22:43:16 -0300",
       "minecraft:creeper": "2024-03-20 21:12:59 -0300",
+      "minecraft:wither": "2024-03-24 11:30:44 -0300",
       "minecraft:evoker": "2024-03-23 00:42:52 -0300",
       "minecraft:zombified_piglin": "2024-03-20 22:12:18 -0300",
       "minecraft:witch": "2024-03-23 00:27:06 -0300",
@@ -4480,6 +4481,24 @@
     },
     "done": true
   },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2024-03-23 21:58:30 -0300"
+    },
+    "done": true
+  },
+  "enchantinginfuser:recipes/decorations/enchanting_infuser": {
+    "criteria": {
+      "has_amethyst_shard": "2024-03-23 22:22:16 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2024-03-23 23:53:51 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/brown_dye": {
     "criteria": {
       "has_cocoa_beans": "2024-03-23 23:59:57 -0300"
@@ -4504,21 +4523,81 @@
     },
     "done": true
   },
-  "enchantinginfuser:recipes/decorations/enchanting_infuser": {
+  "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
-      "has_amethyst_shard": "2024-03-23 22:22:16 -0300"
+      "has_log": "2024-03-24 11:17:13 -0300"
     },
     "done": true
   },
-  "betterdungeons:root": {
+  "mcwdoors:recipes/jungle": {
     "criteria": {
-      "always": "2024-03-23 21:58:30 -0300"
+      "has_wood": "2024-03-24 11:17:13 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/grindstone": {
+  "tombstone:adventure/choose_knowledge": {
     "criteria": {
-      "has_stone_slab": "2024-03-23 23:53:51 -0300"
+      "coded_trigger": "2024-03-24 11:34:49 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/summon_iron_golem": {
+    "criteria": {
+      "summoned_golem": "2024-03-24 11:30:05 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2024-03-24 11:30:25 -0300"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_undead": {
+    "criteria": {
+      "coded_trigger": "2024-03-24 11:30:44 -0300"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2024-03-24 11:30:44 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2024-03-24 11:30:44 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2024-03-24 11:26:27 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2024-03-24 11:17:13 -0300"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_grave_type": {
+    "criteria": {
+      "coded_trigger": "2024-03-24 11:34:35 -0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2024-03-24 11:29:59 -0300"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2024-03-24 11:30:44 -0300"
     },
     "done": true
   },
