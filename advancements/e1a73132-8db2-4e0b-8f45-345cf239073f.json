@@ -4541,9 +4541,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+  "minecraft:recipes/brewing/cauldron": {
     "criteria": {
-      "has_ancient_debris": "2024-03-24 10:01:02 -0300"
+      "has_water_bucket": "2024-03-24 09:49:14 -0300"
     },
     "done": true
   },
@@ -4553,15 +4553,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/netherite_scrap": {
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
     "criteria": {
       "has_ancient_debris": "2024-03-24 10:01:02 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/misc/netherite_ingot": {
+  "minecraft:recipes/misc/netherite_scrap": {
     "criteria": {
-      "has_netherite_scrap": "2024-03-24 10:12:30 -0300"
+      "has_ancient_debris": "2024-03-24 10:01:02 -0300"
     },
     "done": true
   },
@@ -4571,9 +4571,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/cauldron": {
+  "minecraft:recipes/misc/netherite_ingot": {
     "criteria": {
-      "has_water_bucket": "2024-03-24 09:49:14 -0300"
+      "has_netherite_scrap": "2024-03-24 10:12:30 -0300"
     },
     "done": true
   },
