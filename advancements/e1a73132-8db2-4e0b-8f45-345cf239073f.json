@@ -5139,5 +5139,11 @@
     },
     "done": true
   },
+  "evilcraft:closure": {
+    "criteria": {
+      "criteria_0": "2024-03-24 16:15:08 -0300"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
