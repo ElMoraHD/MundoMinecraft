@@ -43,12 +43,14 @@
       "minecraft:birch_forest": "2024-03-23 00:16:47 -0300",
       "minecraft:windswept_hills": "2024-03-22 17:49:44 -0300",
       "minecraft:beach": "2024-03-22 19:05:17 -0300",
+      "minecraft:sparse_jungle": "2024-03-24 15:04:50 -0300",
       "minecraft:river": "2024-03-22 18:07:39 -0300",
       "minecraft:lukewarm_ocean": "2024-03-23 23:50:00 -0300",
       "minecraft:stony_shore": "2024-03-24 00:06:08 -0300",
       "minecraft:dripstone_caves": "2024-03-22 18:40:00 -0300",
       "minecraft:grove": "2024-03-23 23:51:18 -0300",
       "minecraft:forest": "2024-03-22 18:18:49 -0300",
+      "minecraft:lush_caves": "2024-03-24 14:57:08 -0300",
       "minecraft:windswept_forest": "2024-03-23 11:36:02 -0300",
       "minecraft:jungle": "2024-03-23 23:46:57 -0300",
       "minecraft:ocean": "2024-03-23 23:50:11 -0300",
@@ -1386,6 +1388,7 @@
       "minecraft:spider": "2024-03-22 18:21:18 -0300",
       "minecraft:creeper": "2024-03-22 18:18:43 -0300",
       "minecraft:evoker": "2024-03-23 00:40:22 -0300",
+      "minecraft:witch": "2024-03-24 14:40:39 -0300",
       "minecraft:cave_spider": "2024-03-23 11:50:47 -0300",
       "minecraft:piglin": "2024-03-24 09:54:45 -0300",
       "minecraft:enderman": "2024-03-24 10:51:33 -0300",
@@ -4583,21 +4586,51 @@
     },
     "done": true
   },
-  "irons_spellbooks:irons_spellbooks/make_scroll_forge": {
+  "minecraft:husbandry/plant_any_sniffer_seed": {
     "criteria": {
-      "scroll_forge": "2024-03-24 13:44:54 -0300"
+      "pitcher_pod": "2024-03-24 12:38:11 -0300"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/white_crockery_combo": {
+  "minecraft:husbandry/plant_seed": {
     "criteria": {
-      "has_white_crockery_combo": "2024-03-24 13:48:31 -0300"
+      "pitcher_pod": "2024-03-24 12:38:11 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/misc/white_dye": {
+  "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
-      "has_bone_meal": "2024-03-24 13:48:24 -0300"
+      "has_lapis_block": "2024-03-24 12:43:51 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2024-03-24 12:44:33 -0300"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2024-03-24 12:53:42 -0300"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-03-24 12:54:54 -0300"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_grave_type": {
+    "criteria": {
+      "coded_trigger": "2024-03-24 12:56:47 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2024-03-24 13:33:52 -0300"
     },
     "done": true
   },
@@ -4607,9 +4640,57 @@
     },
     "done": true
   },
-  "tombstone:adventure/choose_knowledge": {
+  "irons_spellbooks:irons_spellbooks/make_scroll_forge": {
     "criteria": {
-      "coded_trigger": "2024-03-24 12:54:54 -0300"
+      "scroll_forge": "2024-03-24 13:44:54 -0300"
+    },
+    "done": true
+  },
+  "enchantinginfuser:recipes/decorations/enchanting_infuser": {
+    "criteria": {
+      "has_amethyst_shard": "2024-03-24 13:46:14 -0300"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_arcane_anvil": {
+    "criteria": {
+      "arcane_anvil": "2024-03-24 13:46:34 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-03-24 13:46:53 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-03-24 13:46:53 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/terracotta_crockery_combo": {
+    "criteria": {
+      "has_terracotta_crockery_combo": "2024-03-24 13:47:43 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-03-24 13:48:24 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2024-03-24 13:48:24 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_crockery_combo": {
+    "criteria": {
+      "has_white_crockery_combo": "2024-03-24 13:48:31 -0300"
     },
     "done": true
   },
@@ -4625,27 +4706,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/redstone": {
-    "criteria": {
-      "has_redstone_block": "2024-03-24 12:44:33 -0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_white_bed": {
     "criteria": {
       "has_needed_dye": "2024-03-24 13:48:31 -0300"
-    },
-    "done": true
-  },
-  "tombstone:adventure/fortuitous_militia": {
-    "criteria": {
-      "coded_trigger": "2024-03-24 12:53:42 -0300"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/terracotta_crockery_combo": {
-    "criteria": {
-      "has_terracotta_crockery_combo": "2024-03-24 13:47:43 -0300"
     },
     "done": true
   },
@@ -4685,39 +4748,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/terracotta": {
-    "criteria": {
-      "has_clay_block": "2024-03-24 13:33:52 -0300"
-    },
-    "done": true
-  },
-  "tombstone:adventure/choose_grave_type": {
-    "criteria": {
-      "coded_trigger": "2024-03-24 12:56:47 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/lapis_lazuli": {
-    "criteria": {
-      "has_lapis_block": "2024-03-24 12:43:51 -0300"
-    },
-    "done": true
-  },
-  "irons_spellbooks:irons_spellbooks/make_arcane_anvil": {
-    "criteria": {
-      "arcane_anvil": "2024-03-24 13:46:34 -0300"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/white_cup": {
     "criteria": {
       "has_white_cup": "2024-03-24 13:48:31 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
-    "criteria": {
-      "has_iron_block": "2024-03-24 13:46:53 -0300"
     },
     "done": true
   },
@@ -4733,27 +4766,9 @@
     },
     "done": true
   },
-  "enchantinginfuser:recipes/decorations/enchanting_infuser": {
-    "criteria": {
-      "has_amethyst_shard": "2024-03-24 13:46:14 -0300"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/plant_any_sniffer_seed": {
-    "criteria": {
-      "pitcher_pod": "2024-03-24 12:38:11 -0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_white_dye": "2024-03-24 13:48:31 -0300"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/plant_seed": {
-    "criteria": {
-      "pitcher_pod": "2024-03-24 12:38:11 -0300"
     },
     "done": true
   },
@@ -4769,15 +4784,357 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/anvil": {
+  "handcrafted:recipes/misc/dark_oak_corner_trim": {
     "criteria": {
-      "has_iron_block": "2024-03-24 13:46:53 -0300"
+      "has_dark_oak_corner_trim": "2024-03-24 14:38:27 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bone_block": {
+  "handcrafted:recipes/misc/cherry_couch": {
     "criteria": {
-      "has_bone_meal": "2024-03-24 13:48:24 -0300"
+      "has_cherry_couch": "2024-03-24 14:53:50 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_slab": {
+    "criteria": {
+      "has_planks": "2024-03-24 14:53:50 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-03-24 14:38:27 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_cupboard": {
+    "criteria": {
+      "has_cherry_cupboard": "2024-03-24 14:53:50 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-03-24 14:38:27 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_counter": {
+    "criteria": {
+      "has_cherry_counter": "2024-03-24 14:53:50 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_side_table": {
+    "criteria": {
+      "has_dark_oak_side_table": "2024-03-24 14:38:27 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_bench": {
+    "criteria": {
+      "has_cherry_bench": "2024-03-24 14:53:50 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_side_table": {
+    "criteria": {
+      "has_cherry_side_table": "2024-03-24 14:53:50 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_fence": {
+    "criteria": {
+      "has_planks": "2024-03-24 14:53:50 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_stairs": {
+    "criteria": {
+      "has_planks": "2024-03-24 14:53:50 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_corner_trim": {
+    "criteria": {
+      "has_cherry_corner_trim": "2024-03-24 14:53:50 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dripstone_pillar_trim": {
+    "criteria": {
+      "has_dripstone_pillar_trim": "2024-03-24 14:42:23 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_counter": {
+    "criteria": {
+      "has_dark_oak_counter": "2024-03-24 14:38:27 -0300"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/dark_oak": {
+    "criteria": {
+      "has_wood": "2024-03-24 14:36:37 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2024-03-24 14:38:27 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_nightstand": {
+    "criteria": {
+      "has_cherry_nightstand": "2024-03-24 14:53:50 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_bench": {
+    "criteria": {
+      "has_dark_oak_bench": "2024-03-24 14:38:27 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-03-24 14:53:50 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_button": {
+    "criteria": {
+      "has_planks": "2024-03-24 14:53:50 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_fancy_bed": {
+    "criteria": {
+      "has_dark_oak_fancy_bed": "2024-03-24 14:38:27 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_table": {
+    "criteria": {
+      "has_dark_oak_table": "2024-03-24 14:38:27 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_drawer": {
+    "criteria": {
+      "has_dark_oak_drawer": "2024-03-24 14:38:27 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-03-24 14:38:27 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dripstone_corner_trim": {
+    "criteria": {
+      "has_dripstone_corner_trim": "2024-03-24 14:42:23 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-03-24 14:58:11 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_nightstand": {
+    "criteria": {
+      "has_dark_oak_nightstand": "2024-03-24 14:38:27 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_couch": {
+    "criteria": {
+      "has_dark_oak_couch": "2024-03-24 14:38:27 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-03-24 14:38:27 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2024-03-24 14:38:27 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_shelf": {
+    "criteria": {
+      "has_dark_oak_shelf": "2024-03-24 14:38:27 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2024-03-24 14:38:27 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2024-03-24 14:36:37 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_chair": "2024-03-24 14:38:27 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2024-03-24 14:38:27 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_dining_bench": {
+    "criteria": {
+      "has_dark_oak_dining_bench": "2024-03-24 14:38:27 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_dining_bench": {
+    "criteria": {
+      "has_cherry_dining_bench": "2024-03-24 14:53:50 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-03-24 14:53:50 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_chair": {
+    "criteria": {
+      "has_cherry_chair": "2024-03-24 14:53:50 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_sign": {
+    "criteria": {
+      "has_planks": "2024-03-24 14:53:50 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-03-24 14:53:50 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2024-03-24 14:36:37 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_desk": {
+    "criteria": {
+      "has_dark_oak_desk": "2024-03-24 14:38:27 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_cupboard": {
+    "criteria": {
+      "has_dark_oak_cupboard": "2024-03-24 14:38:27 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2024-03-24 15:49:09 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_desk": {
+    "criteria": {
+      "has_cherry_desk": "2024-03-24 14:53:50 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2024-03-24 14:58:11 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_shelf": {
+    "criteria": {
+      "has_cherry_shelf": "2024-03-24 14:53:50 -0300"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2024-03-24 15:07:06 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_fancy_bed": {
+    "criteria": {
+      "has_cherry_fancy_bed": "2024-03-24 14:53:50 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_pillar_trim": {
+    "criteria": {
+      "has_cherry_pillar_trim": "2024-03-24 14:53:50 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_drawer": {
+    "criteria": {
+      "has_cherry_drawer": "2024-03-24 14:53:50 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_door": {
+    "criteria": {
+      "has_planks": "2024-03-24 14:53:50 -0300"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2024-03-24 15:07:00 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2024-03-24 14:38:27 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_table": {
+    "criteria": {
+      "has_cherry_table": "2024-03-24 14:53:50 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-03-24 14:58:11 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_pillar_trim": {
+    "criteria": {
+      "has_dark_oak_pillar_trim": "2024-03-24 14:38:27 -0300"
     },
     "done": true
   },
