@@ -652,6 +652,7 @@
       "cooked_beef": "2024-03-24 00:37:07 -0300",
       "baked_potato": "2024-03-22 18:00:14 -0300",
       "beef": "2024-03-24 10:27:41 -0300",
+      "tropical_fish": "2024-03-24 23:49:39 -0300",
       "potato": "2024-03-23 11:47:44 -0300",
       "mutton": "2024-03-24 10:25:53 -0300",
       "bread": "2024-03-22 20:55:12 -0300",
@@ -5170,6 +5171,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2024-03-24 21:54:20 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smelting": {
     "criteria": {
       "has_kelp": "2024-03-24 22:01:22 -0300"
@@ -5182,15 +5189,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/diamond": {
-    "criteria": {
-      "has_diamond_block": "2024-03-24 21:54:20 -0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2024-03-24 22:01:22 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2024-03-25 00:07:08 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_torchflower": {
+    "criteria": {
+      "has_torchflower": "2024-03-24 23:45:36 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2024-03-25 00:07:08 -0300"
     },
     "done": true
   },
