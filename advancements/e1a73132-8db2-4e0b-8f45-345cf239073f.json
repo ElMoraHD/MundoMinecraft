@@ -40,6 +40,7 @@
       "minecraft:snowy_slopes": "2024-03-24 18:17:57 -0300",
       "minecraft:taiga": "2024-03-24 15:58:55 -0300",
       "minecraft:deep_ocean": "2024-03-23 23:50:16 -0300",
+      "minecraft:frozen_river": "2024-03-25 22:56:10 -0300",
       "minecraft:cherry_grove": "2024-03-23 11:43:47 -0300",
       "minecraft:sunflower_plains": "2024-03-23 11:37:39 -0300",
       "minecraft:birch_forest": "2024-03-23 00:16:47 -0300",
@@ -49,13 +50,20 @@
       "minecraft:river": "2024-03-22 18:07:39 -0300",
       "minecraft:lukewarm_ocean": "2024-03-23 23:50:00 -0300",
       "minecraft:stony_shore": "2024-03-24 00:06:08 -0300",
+      "minecraft:snowy_plains": "2024-03-25 22:54:19 -0300",
       "minecraft:dripstone_caves": "2024-03-22 18:40:00 -0300",
+      "minecraft:snowy_taiga": "2024-03-25 22:54:17 -0300",
       "minecraft:grove": "2024-03-23 23:51:18 -0300",
+      "minecraft:cold_ocean": "2024-03-25 22:48:29 -0300",
       "minecraft:forest": "2024-03-22 18:18:49 -0300",
       "minecraft:lush_caves": "2024-03-24 14:57:08 -0300",
+      "minecraft:deep_cold_ocean": "2024-03-25 22:49:06 -0300",
+      "minecraft:frozen_ocean": "2024-03-25 22:52:40 -0300",
       "minecraft:windswept_forest": "2024-03-23 11:36:02 -0300",
+      "minecraft:deep_frozen_ocean": "2024-03-25 22:50:14 -0300",
       "minecraft:jungle": "2024-03-23 23:46:57 -0300",
       "minecraft:ocean": "2024-03-23 23:50:11 -0300",
+      "minecraft:snowy_beach": "2024-03-25 22:54:20 -0300",
       "minecraft:flower_forest": "2024-03-23 11:38:06 -0300",
       "minecraft:old_growth_birch_forest": "2024-03-22 19:04:27 -0300",
       "minecraft:meadow": "2024-03-23 11:42:57 -0300",
@@ -1391,6 +1399,7 @@
       "minecraft:spider": "2024-03-22 18:21:18 -0300",
       "minecraft:creeper": "2024-03-22 18:18:43 -0300",
       "minecraft:evoker": "2024-03-23 00:40:22 -0300",
+      "minecraft:zombified_piglin": "2024-03-25 19:44:17 -0300",
       "minecraft:witch": "2024-03-24 14:40:39 -0300",
       "minecraft:cave_spider": "2024-03-23 11:50:47 -0300",
       "minecraft:piglin": "2024-03-24 09:54:45 -0300",
@@ -5195,21 +5204,81 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/end_crystal": {
-    "criteria": {
-      "has_ender_eye": "2024-03-25 00:07:08 -0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/orange_dye_from_torchflower": {
     "criteria": {
       "has_torchflower": "2024-03-24 23:45:36 -0300"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2024-03-25 00:07:08 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ender_chest": {
     "criteria": {
       "has_ender_eye": "2024-03-25 00:07:08 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2024-03-25 21:06:25 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2024-03-25 21:05:06 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2024-03-25 21:05:06 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-03-25 23:26:10 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template": {
+    "criteria": {
+      "has_wild_armor_trim_smithing_template": "2024-03-25 22:57:53 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-03-25 22:57:53 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2024-03-25 23:26:10 -0300"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-03-25 22:58:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2024-03-25 23:06:23 -0300"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2024-03-25 22:58:23 -0300"
     },
     "done": true
   },
