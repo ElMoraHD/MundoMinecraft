@@ -5432,7 +5432,8 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "minecraft:pig": "2024-03-26 14:33:25 -0300"
+      "minecraft:pig": "2024-03-26 14:33:25 -0300",
+      "minecraft:sheep": "2024-03-28 13:06:12 -0300"
     },
     "done": false
   },
@@ -5481,6 +5482,12 @@
   "minecraft:recipes/building_blocks/red_nether_bricks": {
     "criteria": {
       "has_nether_wart": "2024-03-27 23:42:20 -0300"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_blaze": {
+    "criteria": {
+      "requirement": "2024-03-28 12:42:30 -0300"
     },
     "done": true
   },
