@@ -45,6 +45,8 @@
       "minecraft:sunflower_plains": "2024-03-23 11:37:39 -0300",
       "minecraft:birch_forest": "2024-03-23 00:16:47 -0300",
       "minecraft:windswept_hills": "2024-03-22 17:49:44 -0300",
+      "minecraft:wooded_badlands": "2024-03-27 22:31:15 -0300",
+      "minecraft:badlands": "2024-03-27 22:34:34 -0300",
       "minecraft:beach": "2024-03-22 19:05:17 -0300",
       "minecraft:sparse_jungle": "2024-03-24 15:04:50 -0300",
       "minecraft:river": "2024-03-22 18:07:39 -0300",
@@ -59,6 +61,7 @@
       "minecraft:lush_caves": "2024-03-24 14:57:08 -0300",
       "minecraft:deep_cold_ocean": "2024-03-25 22:49:06 -0300",
       "minecraft:frozen_ocean": "2024-03-25 22:52:40 -0300",
+      "minecraft:desert": "2024-03-27 22:29:48 -0300",
       "minecraft:windswept_forest": "2024-03-23 11:36:02 -0300",
       "minecraft:deep_frozen_ocean": "2024-03-25 22:50:14 -0300",
       "minecraft:jungle": "2024-03-23 23:46:57 -0300",
@@ -66,6 +69,7 @@
       "minecraft:snowy_beach": "2024-03-25 22:54:20 -0300",
       "minecraft:flower_forest": "2024-03-23 11:38:06 -0300",
       "minecraft:old_growth_birch_forest": "2024-03-22 19:04:27 -0300",
+      "minecraft:deep_dark": "2024-03-27 22:53:09 -0300",
       "minecraft:meadow": "2024-03-23 11:42:57 -0300",
       "minecraft:plains": "2024-03-22 17:56:05 -0300"
     },
@@ -5308,7 +5312,8 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
-      "in_better_zombie_dungeon": "2024-03-26 22:06:24 -0300"
+      "in_better_zombie_dungeon": "2024-03-26 22:06:24 -0300",
+      "in_better_monster_room": "2024-03-27 22:55:11 -0300"
     },
     "done": false
   },
@@ -5325,6 +5330,24 @@
       "minecraft:chicken": "2024-03-26 23:37:33 -0300"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/light_gray_glazed_terracotta": {
+    "criteria": {
+      "has_light_gray_terracotta": "2024-03-27 22:35:11 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_glazed_terracotta": {
+    "criteria": {
+      "has_brown_terracotta": "2024-03-27 22:31:44 -0300"
+    },
+    "done": true
+  },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2024-03-27 22:55:11 -0300"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

@@ -381,6 +381,7 @@
       "potato": "2024-03-25 12:41:08 -0300",
       "mutton": "2024-03-25 22:47:50 -0300",
       "rotten_flesh": "2024-03-21 23:20:01 -0300",
+      "salmon": "2024-03-27 22:49:17 -0300",
       "melon_slice": "2024-03-23 23:54:38 -0300",
       "cooked_chicken": "2024-03-20 21:30:15 -0300",
       "cooked_salmon": "2024-03-23 23:24:34 -0300"
@@ -3510,18 +3511,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/wild_armor_trim_smithing_template": {
-    "criteria": {
-      "has_wild_armor_trim_smithing_template": "2024-03-26 23:35:37 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2024-03-26 23:35:37 -0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2024-03-26 23:34:37 -0300"
@@ -3531,6 +3520,24 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2024-03-26 23:34:37 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-03-26 23:34:37 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template": {
+    "criteria": {
+      "has_wild_armor_trim_smithing_template": "2024-03-26 23:35:37 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-03-26 23:35:37 -0300"
     },
     "done": true
   },
@@ -3552,15 +3559,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2024-03-26 23:34:37 -0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2024-03-26 23:35:44 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-03-27 23:49:09 -0300"
     },
     "done": true
   },
