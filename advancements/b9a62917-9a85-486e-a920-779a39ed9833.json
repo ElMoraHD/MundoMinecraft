@@ -3583,5 +3583,17 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2024-03-31 22:44:32 -0300"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/staff_root": {
+    "criteria": {
+      "requirement": "2024-03-31 22:17:19 -0300"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

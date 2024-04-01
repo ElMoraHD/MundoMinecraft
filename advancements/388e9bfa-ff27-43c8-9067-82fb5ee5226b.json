@@ -5047,6 +5047,7 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
+      "in_better_zombie_dungeon": "2024-03-31 21:55:08 -0300",
       "in_better_spider_dungeon": "2024-03-24 23:06:55 -0300",
       "in_better_skeleton_dungeon": "2024-03-24 22:51:22 -0300"
     },
@@ -5488,6 +5489,18 @@
   "irons_spellbooks:irons_spellbooks/spell_book_blaze": {
     "criteria": {
       "requirement": "2024-03-28 12:42:30 -0300"
+    },
+    "done": true
+  },
+  "evilcraft:second_age": {
+    "criteria": {
+      "criteria_0": "2024-03-31 21:51:02 -0300"
+    },
+    "done": true
+  },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2024-03-31 21:55:08 -0300"
     },
     "done": true
   },
