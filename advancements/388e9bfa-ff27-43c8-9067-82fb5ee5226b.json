@@ -8,6 +8,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2024-03-24 18:17:54 -0300",
+      "minecraft:old_growth_pine_taiga": "2024-04-03 21:29:27 -0300",
       "minecraft:taiga": "2024-03-24 00:43:37 -0300",
       "minecraft:deep_ocean": "2024-03-25 21:11:20 -0300",
       "minecraft:frozen_river": "2024-03-25 23:58:31 -0300",
@@ -479,6 +480,7 @@
       "potato": "2024-03-23 11:26:57 -0300",
       "mutton": "2024-03-22 18:26:35 -0300",
       "bread": "2024-03-24 19:06:23 -0300",
+      "golden_apple": "2024-04-03 18:42:55 -0300",
       "rotten_flesh": "2024-03-20 21:11:29 -0300",
       "suspicious_stew": "2024-03-22 21:57:20 -0300",
       "glow_berries": "2024-03-25 10:44:42 -0300",
@@ -5684,9 +5686,9 @@
     },
     "done": true
   },
-  "tombstone:adventure/free_soul": {
+  "tombstone:adventure/create_strange_tablet": {
     "criteria": {
-      "coded_trigger": "2024-04-02 20:58:51 -0300"
+      "has_strange_tablet": "2024-04-02 20:36:41 -0300"
     },
     "done": true
   },
@@ -5696,21 +5698,15 @@
     },
     "done": true
   },
-  "tombstone:adventure/create_grave_plate": {
-    "criteria": {
-      "has_grave_plate": "2024-04-02 20:46:58 -0300"
-    },
-    "done": true
-  },
   "tombstone:adventure/create_decorative_grave": {
     "criteria": {
       "has_decorative_grave": "2024-04-02 20:43:17 -0300"
     },
     "done": true
   },
-  "tombstone:adventure/combine_in_inventory": {
+  "tombstone:adventure/create_grave_plate": {
     "criteria": {
-      "coded_trigger": "2024-04-02 20:52:17 -0300"
+      "has_grave_plate": "2024-04-02 20:46:58 -0300"
     },
     "done": true
   },
@@ -5726,9 +5722,219 @@
     },
     "done": true
   },
-  "tombstone:adventure/create_strange_tablet": {
+  "tombstone:adventure/combine_in_inventory": {
     "criteria": {
-      "has_strange_tablet": "2024-04-02 20:36:41 -0300"
+      "coded_trigger": "2024-04-02 20:52:17 -0300"
+    },
+    "done": true
+  },
+  "tombstone:adventure/free_soul": {
+    "criteria": {
+      "coded_trigger": "2024-04-02 20:58:51 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2024-04-03 21:17:00 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/mangrove_couch": {
+    "criteria": {
+      "has_mangrove_couch": "2024-04-03 23:03:50 -0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2024-04-03 21:53:40 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2024-04-03 19:06:54 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_stairs": {
+    "criteria": {
+      "has_planks": "2024-04-03 23:03:50 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/mangrove_counter": {
+    "criteria": {
+      "has_mangrove_counter": "2024-04-03 23:03:50 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2024-04-03 22:55:40 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_door": {
+    "criteria": {
+      "has_planks": "2024-04-03 23:03:50 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/mangrove_shelf": {
+    "criteria": {
+      "has_mangrove_shelf": "2024-04-03 23:03:50 -0300"
+    },
+    "done": true
+  },
+  "tombstone:adventure/consume_soul": {
+    "criteria": {
+      "coded_trigger": "2024-04-03 19:18:42 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/mangrove_bench": {
+    "criteria": {
+      "has_mangrove_bench": "2024-04-03 23:03:50 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/mangrove_desk": {
+    "criteria": {
+      "has_mangrove_desk": "2024-04-03 23:03:50 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/deepslate_pillar_trim": {
+    "criteria": {
+      "has_deepslate_pillar_trim": "2024-04-03 19:17:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-04-03 23:03:50 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/mangrove_fancy_bed": {
+    "criteria": {
+      "has_mangrove_fancy_bed": "2024-04-03 23:03:50 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/mangrove_chair": {
+    "criteria": {
+      "has_mangrove_chair": "2024-04-03 23:03:50 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mangrove_fence": {
+    "criteria": {
+      "has_planks": "2024-04-03 23:03:50 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/mangrove_dining_bench": {
+    "criteria": {
+      "has_mangrove_dining_bench": "2024-04-03 23:03:50 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/mangrove_corner_trim": {
+    "criteria": {
+      "has_mangrove_corner_trim": "2024-04-03 23:03:50 -0300"
+    },
+    "done": true
+  },
+  "tombstone:adventure/village_defender": {
+    "criteria": {
+      "coded_trigger": "2024-04-03 22:42:26 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/deepslate_corner_trim": {
+    "criteria": {
+      "has_deepslate_corner_trim": "2024-04-03 19:17:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-04-03 23:03:50 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-04-03 23:03:50 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/mangrove_nightstand": {
+    "criteria": {
+      "has_mangrove_nightstand": "2024-04-03 23:03:50 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/mangrove_table": {
+    "criteria": {
+      "has_mangrove_table": "2024-04-03 23:03:50 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mangrove_sign": {
+    "criteria": {
+      "has_planks": "2024-04-03 23:03:50 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_wood": {
+    "criteria": {
+      "has_log": "2024-04-03 21:17:00 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_button": {
+    "criteria": {
+      "has_planks": "2024-04-03 23:03:50 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/mangrove_drawer": {
+    "criteria": {
+      "has_mangrove_drawer": "2024-04-03 23:03:50 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/mangrove_pillar_trim": {
+    "criteria": {
+      "has_mangrove_pillar_trim": "2024-04-03 23:03:50 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_slab": {
+    "criteria": {
+      "has_planks": "2024-04-03 23:03:50 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/mangrove_side_table": {
+    "criteria": {
+      "has_mangrove_side_table": "2024-04-03 23:03:50 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/mangrove_cupboard": {
+    "criteria": {
+      "has_mangrove_cupboard": "2024-04-03 23:03:50 -0300"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/mangrove": {
+    "criteria": {
+      "has_wood": "2024-04-03 21:17:00 -0300"
     },
     "done": true
   },

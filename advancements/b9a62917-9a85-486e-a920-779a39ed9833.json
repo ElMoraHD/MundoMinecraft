@@ -383,6 +383,7 @@
       "rotten_flesh": "2024-03-21 23:20:01 -0300",
       "salmon": "2024-03-27 22:49:17 -0300",
       "melon_slice": "2024-03-23 23:54:38 -0300",
+      "golden_carrot": "2024-04-03 20:14:31 -0300",
       "cooked_chicken": "2024-03-20 21:30:15 -0300",
       "cooked_salmon": "2024-03-23 23:24:34 -0300"
     },
@@ -3583,15 +3584,57 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/staff_root": {
+    "criteria": {
+      "requirement": "2024-03-31 22:17:19 -0300"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_leggings": "2024-03-31 22:44:32 -0300"
     },
     "done": true
   },
-  "irons_spellbooks:irons_spellbooks/staff_root": {
+  "evilcraft:evil_source": {
     "criteria": {
-      "requirement": "2024-03-31 22:17:19 -0300"
+      "criteria_0": "2024-04-03 20:32:31 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dripstone_pillar_trim": {
+    "criteria": {
+      "has_dripstone_pillar_trim": "2024-04-03 20:32:03 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dripstone_corner_trim": {
+    "criteria": {
+      "has_dripstone_corner_trim": "2024-04-03 20:32:03 -0300"
+    },
+    "done": true
+  },
+  "evilcraft:cannibal": {
+    "criteria": {
+      "criteria_0": "2024-04-03 20:13:49 -0300"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-04-03 20:11:37 -0300"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2024-04-03 20:11:24 -0300"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_cupidity": {
+    "criteria": {
+      "coded_trigger": "2024-04-03 19:20:57 -0300"
     },
     "done": true
   },
