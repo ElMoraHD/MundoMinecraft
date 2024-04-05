@@ -5734,15 +5734,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2024-04-03 19:06:54 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/deepslate_pillar_trim": {
+    "criteria": {
+      "has_deepslate_pillar_trim": "2024-04-03 19:17:20 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/deepslate_corner_trim": {
+    "criteria": {
+      "has_deepslate_corner_trim": "2024-04-03 19:17:20 -0300"
+    },
+    "done": true
+  },
+  "tombstone:adventure/consume_soul": {
+    "criteria": {
+      "coded_trigger": "2024-04-03 19:18:42 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mangrove_planks": {
     "criteria": {
       "has_logs": "2024-04-03 21:17:00 -0300"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/mangrove_couch": {
+  "minecraft:recipes/building_blocks/mangrove_wood": {
     "criteria": {
-      "has_mangrove_couch": "2024-04-03 23:03:50 -0300"
+      "has_log": "2024-04-03 21:17:00 -0300"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/mangrove": {
+    "criteria": {
+      "has_wood": "2024-04-03 21:17:00 -0300"
     },
     "done": true
   },
@@ -5752,9 +5782,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+  "tombstone:adventure/village_defender": {
     "criteria": {
-      "has_netherite_upgrade_smithing_template": "2024-04-03 19:06:54 -0300"
+      "coded_trigger": "2024-04-03 22:42:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2024-04-03 22:55:40 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/mangrove_couch": {
+    "criteria": {
+      "has_mangrove_couch": "2024-04-03 23:03:50 -0300"
     },
     "done": true
   },
@@ -5770,12 +5812,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/map": {
-    "criteria": {
-      "has_compass": "2024-04-03 22:55:40 -0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/mangrove_door": {
     "criteria": {
       "has_planks": "2024-04-03 23:03:50 -0300"
@@ -5788,12 +5824,6 @@
     },
     "done": true
   },
-  "tombstone:adventure/consume_soul": {
-    "criteria": {
-      "coded_trigger": "2024-04-03 19:18:42 -0300"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/mangrove_bench": {
     "criteria": {
       "has_mangrove_bench": "2024-04-03 23:03:50 -0300"
@@ -5803,12 +5833,6 @@
   "handcrafted:recipes/misc/mangrove_desk": {
     "criteria": {
       "has_mangrove_desk": "2024-04-03 23:03:50 -0300"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/deepslate_pillar_trim": {
-    "criteria": {
-      "has_deepslate_pillar_trim": "2024-04-03 19:17:20 -0300"
     },
     "done": true
   },
@@ -5848,18 +5872,6 @@
     },
     "done": true
   },
-  "tombstone:adventure/village_defender": {
-    "criteria": {
-      "coded_trigger": "2024-04-03 22:42:26 -0300"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/deepslate_corner_trim": {
-    "criteria": {
-      "has_deepslate_corner_trim": "2024-04-03 19:17:20 -0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/mangrove_trapdoor": {
     "criteria": {
       "has_planks": "2024-04-03 23:03:50 -0300"
@@ -5887,12 +5899,6 @@
   "minecraft:recipes/decorations/mangrove_sign": {
     "criteria": {
       "has_planks": "2024-04-03 23:03:50 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mangrove_wood": {
-    "criteria": {
-      "has_log": "2024-04-03 21:17:00 -0300"
     },
     "done": true
   },
@@ -5929,12 +5935,6 @@
   "handcrafted:recipes/misc/mangrove_cupboard": {
     "criteria": {
       "has_mangrove_cupboard": "2024-04-03 23:03:50 -0300"
-    },
-    "done": true
-  },
-  "mcwdoors:recipes/mangrove": {
-    "criteria": {
-      "has_wood": "2024-04-03 21:17:00 -0300"
     },
     "done": true
   },
