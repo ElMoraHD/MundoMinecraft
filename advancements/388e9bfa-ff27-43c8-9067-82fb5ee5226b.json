@@ -16,6 +16,7 @@
       "minecraft:sunflower_plains": "2024-03-23 11:37:37 -0300",
       "minecraft:birch_forest": "2024-03-20 20:12:26 -0300",
       "minecraft:windswept_hills": "2024-03-20 21:23:32 -0300",
+      "minecraft:bamboo_jungle": "2024-04-05 12:16:54 -0300",
       "minecraft:beach": "2024-03-22 21:34:04 -0300",
       "minecraft:dark_forest": "2024-03-24 00:46:52 -0300",
       "minecraft:sparse_jungle": "2024-03-22 21:33:48 -0300",
@@ -5051,9 +5052,10 @@
     "criteria": {
       "in_better_zombie_dungeon": "2024-03-31 21:55:08 -0300",
       "in_better_spider_dungeon": "2024-03-24 23:06:55 -0300",
+      "in_better_monster_room": "2024-04-05 12:17:56 -0300",
       "in_better_skeleton_dungeon": "2024-03-24 22:51:22 -0300"
     },
-    "done": false
+    "done": true
   },
   "betterdungeons:skeleton_dungeon": {
     "criteria": {
@@ -5935,6 +5937,228 @@
   "handcrafted:recipes/misc/mangrove_cupboard": {
     "criteria": {
       "has_mangrove_cupboard": "2024-04-03 23:03:50 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye_from_pitcher_plant": {
+    "criteria": {
+      "has_pitcher_plant": "2024-04-05 12:09:54 -0300"
+    },
+    "done": true
+  },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2024-04-05 12:17:56 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2024-04-05 12:19:35 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2024-04-05 12:20:33 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/music_disc_5": {
+    "criteria": {
+      "has_disc_fragment_5": "2024-04-05 12:21:41 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ward_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-04-05 12:21:43 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ward_armor_trim_smithing_template": {
+    "criteria": {
+      "has_ward_armor_trim_smithing_template": "2024-04-05 12:21:43 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2024-04-05 12:44:44 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2024-04-05 12:44:44 -0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2024-04-05 12:44:44 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2024-04-05 12:46:28 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-04-05 13:02:05 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-04-05 13:02:05 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-04-05 13:02:05 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-04-05 13:02:05 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-04-05 13:02:05 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-04-05 13:02:05 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-04-05 13:02:05 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-04-05 13:02:05 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-04-05 13:02:05 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-04-05 13:02:05 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-04-05 13:02:05 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-04-05 13:02:05 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-04-05 13:21:41 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-04-05 13:21:41 -0300"
+    },
+    "done": true
+  },
+  "enchantinginfuser:recipes/decorations/advanced_enchanting_infuser": {
+    "criteria": {
+      "has_netherite_ingot": "2024-04-05 13:21:41 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-04-05 13:21:41 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-04-05 13:21:41 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2024-04-05 13:21:41 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-04-05 13:21:41 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2024-04-05 13:21:41 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-04-05 13:21:41 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-04-05 13:21:41 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-04-05 13:21:41 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-04-05 13:21:41 -0300"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_netherite": {
+    "criteria": {
+      "requirement": "2024-04-05 13:24:00 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2024-04-05 13:45:51 -0300"
     },
     "done": true
   },
