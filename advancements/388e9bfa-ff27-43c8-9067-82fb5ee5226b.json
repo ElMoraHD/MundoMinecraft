@@ -6223,5 +6223,41 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2024-04-06 11:44:30 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2024-04-06 11:44:30 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2024-04-06 11:44:30 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2024-04-06 11:44:30 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2024-04-06 11:44:30 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/berry_jam_jar": {
+    "criteria": {
+      "has_berry_jam_jar": "2024-04-06 11:56:37 -0300"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
