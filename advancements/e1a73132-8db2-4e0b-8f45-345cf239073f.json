@@ -5924,15 +5924,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
-    "criteria": {
-      "has_azure_bluet": "2024-04-06 22:02:46 -0300"
-    },
-    "done": true
-  },
   "irons_spellbooks:irons_spellbooks/make_wayward_compass": {
     "criteria": {
       "inscription_table": "2024-04-06 21:28:21 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2024-04-06 22:02:46 -0300"
     },
     "done": true
   },
