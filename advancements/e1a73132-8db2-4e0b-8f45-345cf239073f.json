@@ -5894,6 +5894,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2024-04-06 20:50:55 -0300"
+    },
+    "done": true
+  },
   "tombstone:adventure/create_familiar_receptacle": {
     "criteria": {
       "has_familiar_receptacle": "2024-04-06 20:51:19 -0300"
@@ -5906,21 +5912,27 @@
     },
     "done": true
   },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2024-04-06 20:55:28 -0300"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/ink_legendary": {
     "criteria": {
       "requirement": "2024-04-06 21:10:30 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sea_lantern": {
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
-      "has_prismarine_crystals": "2024-04-06 20:50:55 -0300"
+      "has_azure_bluet": "2024-04-06 22:02:46 -0300"
     },
     "done": true
   },
-  "betterdungeons:spider_dungeon": {
+  "irons_spellbooks:irons_spellbooks/make_wayward_compass": {
     "criteria": {
-      "in_better_spider_dungeon": "2024-04-06 20:55:28 -0300"
+      "inscription_table": "2024-04-06 21:28:21 -0300"
     },
     "done": true
   },
