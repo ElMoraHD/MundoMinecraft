@@ -6758,5 +6758,17 @@
     },
     "done": true
   },
+  "tombstone:adventure/mastery_1": {
+    "criteria": {
+      "coded_trigger": "2024-04-09 13:44:16 -0400"
+    },
+    "done": true
+  },
+  "tombstone:adventure/almost_unkillable": {
+    "criteria": {
+      "coded_trigger": "2024-04-09 13:44:16 -0400"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
